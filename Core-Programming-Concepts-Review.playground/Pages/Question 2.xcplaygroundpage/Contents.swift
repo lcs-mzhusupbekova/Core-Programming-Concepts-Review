@@ -18,6 +18,33 @@
  
  */
 // Answer question 2 below
+var numberOfCommits = 30
+print("as it changes")
+var numberOfForks = 30
+print("as it changes")
+let yearCreated = 2017
+print("does not change")
+let monthCreated = 9
+print("does not change")
+let dayCreated = 18
+print("does not change")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*:
  ## Now share your understanding
