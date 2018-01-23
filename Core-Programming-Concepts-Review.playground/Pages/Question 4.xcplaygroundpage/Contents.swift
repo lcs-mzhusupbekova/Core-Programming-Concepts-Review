@@ -21,24 +21,20 @@
  
  */
 // Answer question 4 below
-
-/*:
- ## Now share your understanding
- 
- 1. Commit your response on this page (Option-Command-C).
- 2. [Add a link][al] to your Computer Science portfolio.
- 
- [al]:
- https://www.youtube.com/watch?v=Wa3Wl3T25jo&list=PLTGGOQnktyWs9TlNJ30pgYgypvIGrt3Lx&index=1
- 
- ### Learning Goals - Programming
- 
- * Goal 2
-    * *Thinking*
-        * I know when to use different data types (integers, floating point, Boolean, strings, et cetera) and data structures and can explain why it is important to use the correct data type or structure.
- 
- [Next](@next)
- */
+var diner = 290
+print("as number of people changes constantly")
+var saladBar = 10
+print ("cosumption changess the number of people changes")
+var soup = 15
+print ("volume chages as the number of people changes")
+var mainCourse = 30
+print ("cosumption changess the number of people changes")
+var pizza = 18
+print ("consumption chages as the number of people changes")
+var date = "Thursday, January 18, 2018"
+print ("days are changing")
+let timeFrame = "5:30 PM to 7:00 PM"
+print ("time for diner does not change")
 
 
 
