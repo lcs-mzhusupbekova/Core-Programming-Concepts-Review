@@ -14,6 +14,23 @@
  
  */
 // Answer question 3 below
+var piggyBank = 0
+print(piggyBank)
+piggyBank = 10
+print(piggyBank)
+
+piggyBank = 30
+print(piggyBank)
+
+piggyBank = 15
+print(piggyBank)
+
+piggyBank = 45
+print(piggyBank)
+
+piggyBank = 42
+print(piggyBank)
+
 
 /*:
  ## Now share your understanding
